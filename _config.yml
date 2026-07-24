@@ -10,7 +10,6 @@ exclude: [CNAME, README.md, .gitignore]
 permalink: /:title ## disables post output
 timezone: null
 lsi: false
-markdown: kramdown
 
 
 ### content configuration ###
@@ -33,9 +32,3 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-
-kramdown:
-  auto_ids:  false
-
-
-theme: jekyll-theme-midnight
